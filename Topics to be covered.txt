@@ -1,3 +1,4 @@
 1 - State lifting
 2 - Handling form state
 3 - Passing functions as props
+4 - Destructuring of Arrays
