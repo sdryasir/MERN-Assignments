@@ -2,3 +2,10 @@
 2 - Handling form state
 3 - Passing functions as props
 4 - Destructuring of Arrays
+
+
+19-2-2022
+
+1 - Browser's localStorage() - State Persistance
+2 - Routing in React
+3 - useParams() Hook
