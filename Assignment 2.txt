@@ -1,0 +1,5 @@
+1 - Create a separate component (page) named Home
+2 - Place all your existing todo app code inside Home page (taking care of all the states/props)
+3 - create two separate pages named "contact" and "about" 
+4 - Implement routing in the App component.
+5 - create a navbar component and link all the paths to this
